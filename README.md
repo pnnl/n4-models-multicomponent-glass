@@ -15,7 +15,7 @@ The data used in this work can be found in the `data` folder. `boron_coord_final
 ## Setting up the environment
 To download this work, use `git clone [add link]`
 
-It is recommend to use [`conda`](https://docs.conda.io/projects/conda/en/latest/index.html) to manage `python` environments. Once `conda` is installed, run the following:
+It is recommend to use [`conda`](https://docs.conda.io/projects/conda/en/latest/index.html) to manage `python` environments. Once `conda` is installed, create a new conda environment using:
 
 ```
 conda create -n myenv python=3.10
