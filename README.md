@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-If you use this work in your research, please cite:
+An updated citation will be included when available.
 
 Curry, C. E.; Diaz-Acevedo, M; Wang, D; Allec, S. I.; Neway, J. J.; Vienna, J. D.; Lu, X. Boron Coordination in multicomponent glasses: analytical models and machine learning with uncertainty. *Pacific Northwest National Laboratory* **2026**, [Submitted for publication].
 
