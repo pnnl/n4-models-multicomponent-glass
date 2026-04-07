@@ -1,0 +1,7 @@
+kernel,r2,rmse
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01),0.8801320717470406,7.5592715280250875
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01),0.8669230553888659,7.9100508857236465
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01),0.8925208226355237,7.02974362560985
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01),0.8267431208574231,8.538746226398272
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01),0.8004975759315937,10.002187495623248
+1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=0.01)_average,0.8533633293120895,8.20799995227602

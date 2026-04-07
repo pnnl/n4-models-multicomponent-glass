@@ -1,0 +1,15 @@
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.2
+scipy==1.14.1
+seaborn==0.13.2
+scikit-learn==1.6.1
+orbax-checkpoint<=0.11.32
+flax==0.10.7
+gpflow==2.9.2
+neurobayes==0.0.14
+numpy==2.1.1
+openpyxl==3.1.5
+tensorflow==2.20.0
+notebook==7.5.5
+jupyter==1.1.1
