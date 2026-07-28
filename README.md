@@ -35,13 +35,22 @@ pip install -r requirements.txt
 
 ## Citation
 
-An updated citation will be included when available.
-
-Curry, C. E.; Diaz-Acevedo, M; Wang, D; Allec, S. I.; Neway, J. J.; Vienna, J. D.; Lu, X. Boron Coordination in multicomponent glasses: analytical models and machine learning with uncertainty. *Pacific Northwest National Laboratory* **2026**, [Submitted for publication].
+C. E. Curry, M. Diaz-Acevedo, D. Wang, et al. “Boron Coordination in Multicomponent Glasses: Analytical Models and Machine Learning With Uncertainty.” *International Journal of Applied Glass Science* **17**, no. 3 (2026): e70043. https://doi.org/10.1111/ijag.70043
 
 ```
-@unpublished{Curry_Diaz Acevedo_Wang_Allec_Neeway_Vienna_Lu_2026, 
-place={Pacific Northwest National Laboratory}, 
-author={Curry, Chloe E and Diaz Acevedo, Mayra and 
-Wang, Dewei and Allec, Sarah I and Neeway, James J and Vienna, John D and Lu, Xiaonan}, year={2026}}
+@article{https://doi.org/10.1111/ijag.70043,
+author = {Curry, Chloe E. and Diaz-Acevedo, Mayra and Wang, Dewei and Allec, Sarah I. and Neeway, James J. and Vienna, John D. and Lu, Xiaonan},
+title = {Boron Coordination in Multicomponent Glasses: Analytical Models and Machine Learning With Uncertainty},
+journal = {International Journal of Applied Glass Science},
+volume = {17},
+number = {3},
+pages = {e70043},
+keywords = {boron coordination, glass structure, machine learning},
+doi = {https://doi.org/10.1111/ijag.70043},
+url = {https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/ijag.70043},
+eprint = {https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/ijag.70043},
+abstract = {ABSTRACT Borosilicate glasses are extensively used in a variety of applications from kitchenware to nuclear waste immobilization due to the strong network formed by the Si─O─B bond that makes it resistant to chemical corrosion and gives it a low thermal expansion. Boron, however, exists in both trigonal BO3 and tetrahedral BO4 bonds in glass systems, which impacts the chemical durability and thermal resistance of the glass, among other properties. The fraction of four-coordinated boron (N4 = BO4/[BO3 + BO4]) within a glass may aid in predicting these properties, but it is difficult to derive without experimental data due to the complexity of impacts from varied glass compositions and processing factors. For this reason, compositional models have been developed to predict N4, but the models typically include a limited number (< 5) of components. To help fill this gap in the models, in this work, a diverse multicomponent glass dataset of 809 glasses is compiled from a literature search, and then a number of analytical and machine learning (ML) models are trained on the dataset. Previously developed modified Bernstein and modified Du and Stebbins (MDS) analytical models were fitted to update parameters with the new dataset. Then, partially Bayesian neural networks, Gaussian process regression, and heteroskedastic deterministic neural networks were evaluated. The ML models examined all have different strategies to overcome the potential for overfitting as a result of a limited training dataset, and return results that account for model uncertainty, which can be valuable for understanding model reliability. For the first time, cooling rate is introduced as an input parameter for ML models, showing consistent improvements in performance and solidifying the importance of including parameters outside of composition alone for N4 prediction. The ML models examined here show promise in accurate predictions of N4 in borosilicate glasses, all achieving R2 values of 0.91. These accurate predictions can be used to inform glass design around specific structural properties, accelerating the speed of scientific development.},
+year = {2026}
+}
+
 ```
